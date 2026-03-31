@@ -3,7 +3,7 @@
   var defaults = {
     brandName: "Atelier Rangement",
     amazonUrl: "#",
-    pinterestTagId: "",
+    pinterestTagId: "2612629233865",
     defaultBoard: "Organisation cuisine",
     supportEmail: "bonjour@example.com"
   };
