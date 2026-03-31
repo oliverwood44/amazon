@@ -1,8 +1,8 @@
 window.SITE_CONFIG = {
   brandName: "Atelier Rangement",
-  amazonUrl: "REPLACE_WITH_YOUR_AMAZON_SPECIAL_LINK_OR_PRODUCT_URL",
+  amazonUrl: "https://www.amazon.fr/dp/B08YN9J3W6?tag=atelierrangem-21",
   pinterestTagId: "2612629233865",
-  pinterestVerification: "REPLACE_WITH_PINTEREST_DOMAIN_VERIFY",
+  pinterestVerification: "eef885470770883b8df02de77ee708a0",
   defaultBoard: "Organisation cuisine",
-  supportEmail: "bonjour@example.com"
+  supportEmail: "olivier.bois@larbredessolutions.com"
 };
